@@ -40,6 +40,10 @@ python main.py
 
 
 
+https://github.com/RRonakDev/Object-Detection-System/assets/102300772/2b3275c2-9fdc-4ecb-8b2d-8f4d53b934fc
+
+
+
 - Output video
 
 
