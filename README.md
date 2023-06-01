@@ -34,17 +34,13 @@ python main.py
 
 - Normal video
 
-
-
-
-
-
-
 https://github.com/RRonakDev/Object-Detection-System/assets/102300772/2b3275c2-9fdc-4ecb-8b2d-8f4d53b934fc
 
-
-
 - Output video
+
+
+https://github.com/RRonakDev/Object-Detection-System/assets/102300772/ab55d56c-1a2a-418e-8014-5f2850da36ba
+
 
 
 
