@@ -10,7 +10,7 @@ The code uses the YOLO model for object detection and a custom tracking algorith
 
 - Python 3.6+
 - OpenCV
-- Ultralytics
+- TenserFlow
 
 Install the required packages using the following command:
 
@@ -41,6 +41,7 @@ python main.py
 
 
 - Output video
+
 
 
 
